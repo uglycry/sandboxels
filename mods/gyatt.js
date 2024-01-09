@@ -6,7 +6,7 @@ elements.test = {
     name: "Alex",
     color: "#00FFF2",
     behavior: behaviors.POWDER,
-    category: "powder",
+    category: "land",
     state: "solid",
     density: 19,
     temp: 1e23,
@@ -32,8 +32,8 @@ elements.molten_alex = {
     },
 };
 
-elements.testium_gas = {
-    name:"Liquid Testium",
+elements.alex_gas = {
+    name:"Alex gas",
     color:"#00ff00",
     behavior: behaviors.GAS,
     category: "gases",
