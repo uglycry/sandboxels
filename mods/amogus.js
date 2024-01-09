@@ -1,6 +1,6 @@
 elements.amogus = {
 	name: "Amogus",
-	color: "#ffffff",
+	color: "#660066",
 	cooldown: 6,
 	tick: function(pixel) {
 	pixel.arr=[["brick",  "brick",  "brick"],
