@@ -2465,7 +2465,7 @@ Proper classification of limestone within these code comments
 				tick: function(pixel) {
 					nsTick(pixel,0.7,stellarPlasmaSpreadWhitelist);
 				},
-                temp: 9e999,
+                temp: 99999999e999999999999999999999999,
                 category: "special",
                 state: "gas",
                 density: 9e999,
