@@ -6,7 +6,7 @@ elements.test = {
     name: "Alex",
     color: "#00FFF2",
     behavior: behaviors.POWDER,
-    category: "land",
+    category: "solids",
     state: "solid",
     density: 19,
     temp: 1e23,
