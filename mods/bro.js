@@ -1,0 +1,21 @@
+elements.burningsecret = {
+                        name: "legendary energy",
+                        color: "#003300",
+	                behavior: [
+        "XX|XX|XX",
+        "XX|EX:90>plasma,plasma,plasma,plasma,radon,radon,radon,radon,radon,radon,molten_iron,molten_uranium,legendary_energy AND CH:light|XX",
+        "XX|XX|XX",
+    ],
+                        temp: 9.99e999,
+	                tempLow: 9.9e98,
+	                stateLow: "",
+                        category: "energy",
+                        state: "gas",
+                        density: 3000,
+                        excludeRandom: true,
+                        noMix: true,
+			reactions: {
+                                "magma": { "elem1": "armageddon", "elem2": null },
+                                "void": { "elem1": "light", "elm2": null },
+          },
+},
