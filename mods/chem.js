@@ -7,7 +7,7 @@ Metamorphic rocks
 Merge crimson?
 Proper classification of limestone within these code comments
 */
-liquid_light
+light
 
 //Variables
 	
